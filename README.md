@@ -1,7 +1,6 @@
 # 📊 Sales Performance Dashboard – Power BI Internship Project  
 **Project Type:** Business Intelligence | Data Analytics | Dashboarding  
-**Internship:** Bharat Internship – May 2024  
-**Author:** Praveen | [LinkedIn](https://linkedin.com/in/vnr-nitish)
+**Author:** Nitish Raj Vinnakota | [LinkedIn](https://linkedin.com/in/vnr-nitish)
 
 ---
 
